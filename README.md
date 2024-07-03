@@ -4,19 +4,6 @@
 
 > **_NOTE:_** No need to clone: run `npx create-aptos-dapp` in your terminal to get started
 
-### Quick Start
-
-To create a Aptos dapp, open your terminal, cd into the directory you’d like to create the dapp in, and run the following command:
-
-```bash
-npx create-aptos-dapp
-```
-
-Then follow the prompts!
-
-([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, [see instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))
-
-### Prerequisites
 
 - [node and npm](https://nodejs.org/en) (npm ≥ 5.2.0)
 
